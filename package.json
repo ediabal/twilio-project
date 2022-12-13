@@ -11,7 +11,7 @@
     "send": "node send_sms.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "twilio": "^3.47.0"
   }
 }
